@@ -1,4 +1,5 @@
 ![image](https://img.shields.io/badge/Maintained%3F-no-red.svg)
+
 # Ft_transcendence
 
 `ft_transcendence` is an open-source web application that uses Node.js and the NestJS framework. It is a Pong multiplayer game that allows users to create accounts, play against each other, and interact through chat and private messaging. The project also includes two-factor authentication and a backend server that handles game data and communication between clients. I was responsible for implementing the private messaging feature in the client-side of the project.
